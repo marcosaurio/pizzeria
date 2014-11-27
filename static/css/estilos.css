@@ -1,0 +1,34 @@
+body{
+	color: #ffffff;
+	font-size: 16px;
+	background-color: #FF2121;
+	text-align: center;
+}
+header{
+	margin-bottom: 1.5em;
+	position: fixed;
+	background-color: #A90000;
+	width: 100%;
+}
+footer{
+	
+}
+h1{
+	color: yellow;
+}
+nav ul li{
+	display: inline-block;
+	list-style: none;
+	padding-right: 3em; 
+}
+nav ul li a {
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration:  none;
+}
+.promocion{
+
+}
+.main{
+	margin-top:5em.
+}
