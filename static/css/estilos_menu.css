@@ -30,12 +30,19 @@ nav ul li a {
 	font-weight: bold;
 	text-decoration:  none;
 }
+table, td, tr{
+	border: solid black .19em;
+	padding: .5em;
+}
 .promocion p, .promocion img{ 
 	display: inline-block;
 }
 .main{
 	padding-top: 10em;
 }
-.tablaMenu{
-	text-align: center;
+
+.esp{
+	font-weight: bold;
+	font-size: 18px;
+	color: yellow;
 }
