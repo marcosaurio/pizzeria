@@ -30,6 +30,10 @@ nav ul li a {
 	font-weight: bold;
 	text-decoration:  none;
 }
+nav ul li a:hover{
+	padding: 1em;
+	background: red;
+}
 table, td, tr{
 	border: solid black .19em;
 	padding: .5em;

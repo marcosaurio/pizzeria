@@ -17,6 +17,10 @@ footer{
 footer p{
 	padding: 2em;
 }
+input{
+
+	color: black;
+}
 h1{
 	color: yellow;
 }
@@ -29,6 +33,14 @@ nav ul li a {
 	color: #ffffff;
 	font-weight: bold;
 	text-decoration:  none;
+}
+nav ul li a:hover{
+	padding: 1em;
+	background: red;
+}
+.ingredientes{
+	text-align: left;
+	margin: 0 auto;
 }
 .promocion p, .promocion img{ 
 	display: inline-block;
