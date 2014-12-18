@@ -38,9 +38,12 @@ nav ul li a:hover{
 	padding: 1em;
 	background: red;
 }
-.ingredientes{
-	text-align: left;
+.conjunto{
+	text-align: center;
 	margin: 0 auto;
+}
+.conjunto input{
+	display: inline-block;
 }
 .promocion p, .promocion img{ 
 	display: inline-block;
